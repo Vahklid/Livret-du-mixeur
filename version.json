@@ -1,5 +1,5 @@
 {
   "version": "0.4",
-  "download_url": "https://github.com/TON_PSEUDO/TON_REPO/releases/download/v0.4/Livret.du.Mixeur.exe",
+  "download_url": "https://github.com/Vahklid/Livret-du-mixeur/releases/download/Livret-du-Mixeur/Livret.du.Mixeur.exe",
   "changelog": "V0.4 — Inventaire & Craft\n• Nouvelle page Inventaire accessible depuis la topbar\n• Grille d'équipement avec 10 slots\n• Calcul automatique des ressources de craft\n• Prix de vente / Prix d'achat par ressource\n• Export image PNG du stock et du craft\n• Bouton Accueil dans la topbar\n• Corrections de performance"
 }
