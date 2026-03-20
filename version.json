@@ -1,5 +1,5 @@
 {
-  "version": "0.4",
-  "download_url": "https://github.com/Vahklid/Livret-du-mixeur/releases/download/Livret-du-Mixeur/Livret.du.Mixeur.exe",
-  "changelog": "V0.4 — Inventaire & Craft\n• Nouvelle page Inventaire accessible depuis la topbar\n• Grille d'équipement avec 10 slots\n• Calcul automatique des ressources de craft\n• Prix de vente / Prix d'achat par ressource\n• Export image PNG du stock et du craft\n• Bouton Accueil dans la topbar\n• Corrections de performance"
+  "version": "0.5",
+  "download_url": "https://github.com/Vahklid/Livret-du-mixeur/releases/download/V0.5/Livret.du.Mixeur.exe",
+  "changelog": "V0.5 — Performance, UX & Henchs nécessaires\n• Rendu PIL : cartes dessinées en image cachée\n• Cache disque des images henchs\n• Bouton LV et 🔍 repositionnés\n• Sauvegarde automatique des mix en cours\n• Popup Henchs : affichage terminés/nécessaires par ligne\n• Noms nettoyés dans la liste (ex: Phoenix)\n• Paramètres : vider cache, désactiver fond d'écran\n• Correction d'un bug lors du téléchargement de la nouvelle version"
 }
